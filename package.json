@@ -1,0 +1,25 @@
+{
+  "name": "@safestudio/vuepress-plugin-enhanced-search",
+  "version": "0.0.1",
+  "description": "Enhanced search plugin for VuePress",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SafeStudio/vuepress-plugin-enhanced-search.git"
+  },
+  "keywords": [
+    "documentation",
+    "vue",
+    "vuepress",
+    "generator"
+  ],
+  "author": "Le Minh Tri <ansidev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SafeStudio/vuepress-plugin-enhanced-search/issues"
+  },
+  "homepage": "https://github.com/SafeStudio/vuepress-plugin-enhanced-search"
+}
