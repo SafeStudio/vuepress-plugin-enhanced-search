@@ -1,5 +1,7 @@
 # vuepress-plugin-enhanced-search
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SafeStudio/vuepress-plugin-enhanced-search.svg)](https://greenkeeper.io/)
+
 > enhanced header-based search plugin for VuePress
 
 ## Install
